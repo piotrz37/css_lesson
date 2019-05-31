@@ -1,5 +1,4 @@
 # Sample HTML file for styling
-----
 This is a sample HTML file intended for learning basic styling. I will add to it
 and make it easier to understand in time but for now it's just a simple
 collection of text and a few images.
